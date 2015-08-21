@@ -27,7 +27,7 @@ class ParentProject < Project
                   main_ngrams: {
                       type: 'edgeNGram',
                       min_gram: 1,
-                      max_gram: 20
+                      max_gram: 60
                   }
               }
           }
